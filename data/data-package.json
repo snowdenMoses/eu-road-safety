@@ -1,0 +1,10 @@
+{
+  "name": "eu_road_safety",
+  "version": "1.0.0",
+  "description":"",
+  "author": "Wikipedia",
+  "dependencies": {
+    "matplotlib":"",
+    "pandas":""
+  }
+}

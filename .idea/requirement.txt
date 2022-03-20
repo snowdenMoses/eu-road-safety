@@ -1,0 +1,6 @@
+Dependencies:{
+    matplotlib,
+    pandas
+}
+
+use "pip install dependency_name" to install dependencies
